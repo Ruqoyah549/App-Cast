@@ -1,0 +1,14 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Spatch Riders</title>
+<item>
+<title>Version 1.0.2</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Bug fixes! </description>
+<pubDate>Mon, 23 November 2020 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.rider" sparkle:version="1.0.2" sparkle:os="android"/>
+</item>
+</channel>
+</rss>
