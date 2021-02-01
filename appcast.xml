@@ -2,22 +2,28 @@
 <channel>
 <title>Spatch</title>
 <item>
-<title>Version 1.0.7</title>
+<title>Version 1.0.3</title>
+<title>Version 1.0.4</title>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 <description> Bug fixes! </description>
-<pubDate>Monday, 1 February 2020 11:00:00 +0000</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.spatch" sparkle:version="1.0.7" sparkle:os="android"/>
+<pubDate>Mon, 7 December 2020 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.spatch" sparkle:version="1.0.3" sparkle:os="android"/>
+<pubDate>Tuesday, 8 December 2020 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.spatch" sparkle:version="1.0.4" sparkle:os="android"/>
 </item>
 <item>
-<title>Version 1.0.7</title>
+<title>Version 1.0.3</title>
+<title>Version 1.0.4</title>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 <description> Bug fixes! </description>
-<pubDate>Monday, 1 February 2020 11:00:00 +0000</pubDate>
-<enclosure url="https://apps.apple.com/ng/app/spatch-logistics/id1540077334" sparkle:version="1.0.7" sparkle:os="ios"/>
+<pubDate>Mon, 7 December 2020 11:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/ng/app/spatch-logistics/id1540077334" sparkle:version="1.0.3" sparkle:os="ios"/>
+<pubDate>Tuesday, 8 December 2020 11:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/ng/app/spatch-logistics/id1540077334" sparkle:version="1.0.4" sparkle:os="ios"/>
 </item>
 </channel>
 </rss>
