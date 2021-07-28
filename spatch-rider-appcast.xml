@@ -2,13 +2,13 @@
 <channel>
 <title>Spatch Riders</title>
 <item>
-<title>Version 1.0.4</title>
+<title>Version 1.0.6</title>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 <description> Bug fixes! </description>
-<pubDate>Friday, 19 February 2021 11:00:00 +0000</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.rider" sparkle:version="1.0.4" sparkle:os="android"/>
+<pubDate>Wednesday, 28 July 2021 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.spatchlogistics.rider" sparkle:version="1.0.6" sparkle:os="android"/>
 </item>
 </channel>
 </rss>
