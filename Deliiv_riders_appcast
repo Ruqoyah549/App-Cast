@@ -1,4 +1,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
-<title>Deliiv</title>
+<title>Deliiv Rider</title>
 <item>
+<title>Version 1.0.1</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Pick up packages as you ride </description>
+<pubDate>Wednesday, 10 August 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.expansecontinental.deliiv_riders" sparkle:version="1.0.1" sparkle:os="android"/>
+</item>
+<item>
+<title>Version 1.0.1</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Pick up packages as you ride </description>
+<pubDate>Wednesday, 10 August 2022 11:00:00 +0000</pubDate>
+<enclosure url="" sparkle:version="1.0.1" sparkle:os="ios"/>
+</item>
+</channel>
+</rss>
