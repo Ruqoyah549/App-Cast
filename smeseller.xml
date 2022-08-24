@@ -1,0 +1,23 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>SME Seller</title>
+<item>
+<title>Version 1.0.2</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Everyday supplies are available at markets’ best prices </description>
+<pubDate>Wedneaysd, 24 August 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.sendmeerrand.sme_sellers" sparkle:version="1.0.2" sparkle:os="android"/>
+</item>
+<item>
+<title>Version 1.0.2</title>
+<sparkle:tags>
+<sparkle:criticalUpdate/>
+</sparkle:tags>
+<description> Everyday supplies are available at markets’ best prices </description>
+<pubDate>Wedneaysd, 24 August 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/gb/app/sme-seller/id1627142293" sparkle:version="1.0.2" sparkle:os="ios"/>
+</item>
+</channel>
+</rss>
