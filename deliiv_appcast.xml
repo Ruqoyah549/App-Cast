@@ -2,22 +2,22 @@
 <channel>
 <title>Deliiv</title>
 <item>
-<title>Version 1.0.1</title>
+<title>Version 1.0.7</title>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 <description> Experience fast and secure mode of pickup and delivery at affordable price </description>
-<pubDate>Wednesday, 10 August 2022 11:00:00 +0000</pubDate>
-<enclosure url="https://play.google.com/store/apps/details?id=com.expansecontinental.deliiv.deliiv" sparkle:version="1.0.1" sparkle:os="android"/>
+<pubDate>Thursday, 8 September 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=com.expansecontinental.deliiv.deliiv" sparkle:version="1.0.7" sparkle:os="android"/>
 </item>
 <item>
-<title>Version 1.0.1</title>
+<title>Version 1.0.7</title>
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
 <description> Experience fast and secure mode of pickup and delivery at affordable price </description>
-<pubDate>Wednesday, 10 August 2022 11:00:00 +0000</pubDate>
-<enclosure url="https://apps.apple.com/gb/app/deliiv/id1637073254" sparkle:version="1.0.1" sparkle:os="ios"/>
+<pubDate>Thursday, 8 September 2022 11:00:00 +0000</pubDate>
+<enclosure url="https://apps.apple.com/gb/app/deliiv/id1637073254" sparkle:version="1.0.7" sparkle:os="ios"/>
 </item>
 </channel>
 </rss>
